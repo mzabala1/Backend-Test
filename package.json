@@ -1,0 +1,23 @@
+{
+  "name": "backend-test",
+  "version": "1.0.0",
+  "description": "Backend test using Express framework and defining the API for reporting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzabala1/Backend-Test.git"
+  },
+  "author": "mzabala1@eafit.edu.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzabala1/Backend-Test/issues"
+  },
+  "homepage": "https://github.com/mzabala1/Backend-Test#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.86.0"
+  }
+}
