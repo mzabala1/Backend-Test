@@ -1,13 +1,19 @@
 # Backend-Test
 Backend test using Express framework and defining the API for reporting.
 
-Setup:
+### Setup:
+```
   $ npm init
   $ npm install request --save
   $ npm install express --save
+```
+## Test:
 
-Test:
-  test openweathermap API:
+  #### test openweathermap API:
+  ```
     $ node index.js
-  test express:
+  ```
+  #### test express:
+  ```
     $ node server.js
+  ```
